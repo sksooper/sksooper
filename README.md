@@ -10,29 +10,59 @@ I'm a 19-year-old computer science student in Poland. I like building things, ge
 ## 🔭 Right now
 
 - **Building:** [EchoMesh](https://github.com/sksooper/echomesh), a cloud platform for monitoring urban noise (map, alerts, quiet routes)
-- **Learning:** TypeScript, Flutter / FlutterFlow, and getting better at Python
+- **Studying:** cloud applications and systems engineering (my university specialization)
+- **Learning:** TypeScript, Flutter / FlutterFlow, Supabase, and getting better at Python
 - **Next up:** moving more of my uni projects onto GitHub
 
 ## 🧰 Stack
 
-**Languages**
+**Languages & styling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,dart,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,cpp,dart" alt="Languages and styling" title="JavaScript, TypeScript, Python, HTML, CSS, Tailwind CSS, C++, Dart" />
 </p>
 
-**Frameworks, platforms & tools**
+**Frameworks & runtimes**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,docker,git,github,powershell,obsidian" alt="Tools" />
-  <img src="https://img.shields.io/badge/FlutterFlow-learning-0C0C0C?style=flat-square" alt="FlutterFlow (learning)" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,nestjs,flutter" alt="Frameworks and runtimes" title="React, Node.js, Vite, NestJS, Flutter" />
 </p>
+
+**DevOps & workflow**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions" alt="DevOps and workflow" title="Git, GitHub, Docker, GitHub Actions" />
+</p>
+
+**Dev tools & data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postgres,powershell,androidstudio,obsidian" alt="Dev tools and data" title="VS Code, PostgreSQL, PowerShell, Android Studio, Obsidian" />
+</p>
+
+**Just getting started with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,supabase" alt="AWS and Supabase" title="AWS, Supabase" />
+</p>
+
+<details>
+<summary>📖 Who's who</summary>
+
+- **Dart + Flutter:** Flutter apps are written in Dart. I'm learning both
+- **React, Vite, Node.js, NestJS:** the frontend and backend tools behind EchoMesh
+- **PostgreSQL:** EchoMesh's database, with PostGIS for map data
+- **Docker + GitHub Actions:** containers for my projects and automation (this profile's snake and activity list run on Actions)
+- **Jupyter, PowerShell, Android Studio:** notebooks, scripts, and Flutter's mobile tooling
+- **AWS, Supabase:** just starting, through free courses and my first FlutterFlow project
+
+</details>
 
 ## 📌 Projects
 
-| Project                                              | What it is                                                                    | Tech                                 |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------ |
-| [**EchoMesh**](https://github.com/sksooper/echomesh) | Cloud platform for monitoring urban noise: live map, alerts, and quiet routes | React, Vite, NestJS, PostGIS, Docker |
+| Project                                              | What it is                                                                    | Tech                                                                             |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [**EchoMesh**](https://github.com/sksooper/echomesh) | Cloud platform for monitoring urban noise: live map, alerts, and quiet routes | React, Vite, TypeScript, Tailwind, Leaflet, NestJS, PostgreSQL + PostGIS, Docker |
 
 <img src="https://img.shields.io/github/last-commit/sksooper/echomesh?style=flat-square&label=EchoMesh%20last%20commit" alt="EchoMesh last commit" />
 
@@ -74,7 +104,8 @@ Mam 19 lat i studiuję informatykę w Polsce. Lubię budować rzeczy, utykać na
 **Teraz:**
 
 - **Buduję:** [EchoMesh](https://github.com/sksooper/echomesh), chmurową platformę do monitorowania hałasu miejskiego (mapa, alerty, ciche trasy)
-- **Uczę się:** TypeScriptu, Fluttera / FlutterFlow i lepszego Pythona
+- **Studiuję:** specjalizację „Inżynier aplikacji i systemów chmurowych”
+- **Uczę się:** TypeScriptu, Fluttera / FlutterFlow, Supabase i lepszego Pythona
 - **W planach:** przeniesienie kolejnych projektów uczelnianych na GitHuba
 
 Najłatwiej złapać mnie na Discordzie lub Telegramie (przyciski powyżej).

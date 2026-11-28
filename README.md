@@ -69,11 +69,11 @@ I'm a 19-year-old computer science student in Poland. I like building things, ge
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/DENI3401/Dorado/pull/41) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
-2. 💪 Opened PR [#41](https://github.com/DENI3401/Dorado/pull/41) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
-3. 🎉 Merged PR [#35](https://github.com/DENI3401/Dorado/pull/35) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
-4. 🔒 Closed issue [#14](https://github.com/DENI3401/Dorado/issues/14) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
-5. 💪 Opened PR [#35](https://github.com/DENI3401/Dorado/pull/35) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
+1. 🎉 Merged PR [#46](https://github.com/DENI3401/Dorado/pull/46) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
+2. 💪 Opened PR [#46](https://github.com/DENI3401/Dorado/pull/46) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
+3. 🎉 Merged PR [#45](https://github.com/DENI3401/Dorado/pull/45) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
+4. 🔒 Closed issue [#21](https://github.com/DENI3401/Dorado/issues/21) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
+5. 💪 Opened PR [#45](https://github.com/DENI3401/Dorado/pull/45) in [DENI3401/Dorado](https://github.com/DENI3401/Dorado)
 <!--END_SECTION:activity-->
 
 ## 📊 GitHub stats
